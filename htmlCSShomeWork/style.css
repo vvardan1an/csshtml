@@ -1,0 +1,66 @@
+body {
+    background-image: url("images/b_coffee.jpg");
+    padding: initial;
+    margin: 0 20% 0 20%;
+}
+
+header {
+    width: 80%;
+    margin-left: 8%;
+}
+footer{
+    background-image: url("images/b_coffee2.jpg");
+}
+#div1{
+    margin: 3% 0 0 6%;
+}
+#div2{
+    margin: 3% 0 0 0;
+    border: 2px dotted;
+    padding: 2%;
+}
+#div3{
+    float: left;
+    width: 30%;
+    color: green;
+    font-family: sans-serif;
+}
+#div4{
+    float: left;
+    width: 30%;
+    color: green;
+    font-family: sans-serif;
+    margin: 0 0 0 5%;
+}
+#div5{
+    float: left;
+    width: 30%;
+    color: green;
+    font-family: sans-serif;
+    margin: 0 0 0 5%;
+}
+#p1{
+    color: black;
+    font-family: cursive;
+}
+#p2{
+    color: black;
+    font-family: cursive;
+}
+#p3{
+    color: black;
+    font-family: cursive;
+}
+#p4{
+    color: black;
+    font-family: cursive;
+}
+input{
+    background-color:transparent;
+    padding:0 5% 2% 0;
+    border: 1px dotted
+}
+#inp1{
+    padding: 1% 78% 6% 0;
+    margin-top: 3%;
+}
